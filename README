@@ -1,0 +1,7 @@
+This is an example of using the Ruby FFI to use external C libs in Ruby projects.
+You can read details on this blog post -
+http://dev.saranyan.com/using-ruby-ffi
+
+If you have suggesions/questions, reach out on twitter @saranyan
+
+
